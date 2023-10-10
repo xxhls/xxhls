@@ -1,12 +1,10 @@
  <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
  </div>
- 
- 
- # :boy: Hi, I'm Heyq! (/'hɜ:/) 
-  
-  ### :sparkles: About Me :
 
+ ---
+  
+### :sparkles: About Me :
 
 I am a junior student at Nanjing University of Posts and Telecommunications
 
