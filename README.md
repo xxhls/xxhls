@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=console.log('Hello, World');&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxhls)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
  <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
