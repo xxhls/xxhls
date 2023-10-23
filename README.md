@@ -1,5 +1,5 @@
 <div align="center">
- <b color="blue">console.log("Hello, World!");</b>
+ <b style="color: blue;">console.log("Hello, World!");</b>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxhls)](https://github.com/anuraghazra/github-readme-stats)
