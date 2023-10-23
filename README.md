@@ -1,6 +1,5 @@
-<div align="center">
- <b style="color: blue;">console.log("Hello, World!");</b>
-</div>
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxhls)](https://github.com/anuraghazra/github-readme-stats)
 
