@@ -8,14 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/xxhls0208"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://twitter.com/xxhls0208"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>
   <a href="https://space.bilibili.com/3493273159075938"><img src="https://img.shields.io/badge/Bilibili-B站-pink" /></a>
   <a href="https://v.douyin.com/idVq6RAa"><img src="https://img.shields.io/badge/TikTok-抖音-blue" /></a>
   <a href="https://space.bilibili.com/3493273159075938"><img src="https://img.shields.io/badge/CSDN-论坛-red" /></a>
   <a href="https://juejin.cn/user/708557910842296"><img src="https://img.shields.io/badge/Juejin-掘金-blue" /></a>
   <a href="https://www.zhihu.com/people/49-53-92-77"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
-  
-  https://v.douyin.com/idVq6RAa/
   <a href="https://github.com/xxhls"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
