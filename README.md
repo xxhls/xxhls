@@ -13,7 +13,7 @@
   <a href="https://v.douyin.com/idVq6RAa"><img src="https://img.shields.io/badge/TikTok-抖音-blue" /></a>
   <a href="https://space.bilibili.com/3493273159075938"><img src="https://img.shields.io/badge/CSDN-论坛-red" /></a>
   <a href="https://juejin.cn/user/708557910842296"><img src="https://img.shields.io/badge/Juejin-掘金-blue" /></a>
-  <a href="https://www.zhihu.com/people/49-53-92-77"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>\
+  <a href="https://www.zhihu.com/people/49-53-92-77"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
 </p>
 
 
