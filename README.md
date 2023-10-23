@@ -9,11 +9,7 @@
 
 <p align="center">
   <a href="https://twitter.com/xxhls0208"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
-<a href="www.baidu.com"><img src="https://img.shields.io/badge/baidu-aaa" /></a>
-
-
-  
+  <a href="https://space.bilibili.com/3493273159075938"><img src="https://img.shields.io/badge/Bilibili-B站-pink" /></a>
   <a href="https://github.com/xxhls"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
