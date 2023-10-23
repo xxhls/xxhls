@@ -2,9 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=console.log('Hello, World');&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
  
- <div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
- </div>
+</div>
+
+<p align="center">
+  Talk is cheap, show me the code.
+</p>
 
  ---
   
