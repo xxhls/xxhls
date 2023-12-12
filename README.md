@@ -4,10 +4,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xxhls&count_private=true&show_icons=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxhls&layout=compact" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/xxhls0208"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>
   <a href="https://space.bilibili.com/3493273159075938"><img src="https://img.shields.io/badge/Bilibili-B站-pink" /></a>
   <a href="https://v.douyin.com/idVq6RAa"><img src="https://img.shields.io/badge/TikTok-抖音-blue" /></a>
@@ -22,3 +21,6 @@ Hi, Nice to meet you
 - :wave: Hello, welcome to my space.
 - :dart: I' am interested in web development, server development, database, computer network, etc.
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxhls&layout=compact" />
+</p>
