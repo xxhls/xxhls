@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxhls&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xxhls&count_private=true&show_icons=true&include_all_commits=true" />
 </p>
 
 <p align="center">
