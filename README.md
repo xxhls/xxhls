@@ -11,7 +11,3 @@ Hi, Nice to meet you
 
 - :wave: Hello, welcome to my space.
 - :dart: I' am interested in web development, server development, database, computer network, etc.
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxhls&layout=compact" />
-</p>
